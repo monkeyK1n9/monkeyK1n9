@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @monkeyK1n9
 - 👀 I’m interested in Software engineering, fullstack development
-- 🌱 I’m currently learning at ALX (alxafrica.com)
+- 🌱 I’m currently learning at ALX (<a href="alxafrica.com">here</a>)
 - 💞️ I’m looking to collaborate on mobile apps, libraries, web apps, etc
 - 📫 How to reach me: mnkeyk1n9@gmail.com
 
