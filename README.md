@@ -4,8 +4,8 @@
 - 📫 How to reach me: mkeyk1n9@gmail.com
 
 My Projects:
-- <a href="cadix.vercel.app">CADiX</a>
-- <a href="bit.ly/shomiApp">Shomi</a>
+- <a href="https://cadix.vercel.app">CADiX</a>
+- <a href="https://bit.ly/shomiApp">Shomi</a>
 
 <!---
 monkeyK1n9/monkeyK1n9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
