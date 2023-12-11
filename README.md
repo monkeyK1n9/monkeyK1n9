@@ -4,8 +4,9 @@
 - 📫 How to reach me: mkeyk1n9@gmail.com
 
 My Projects:
-- <a href="https://cadix.vercel.app" target="_blank">CADiX</a>
-- <a href="https://bit.ly/shomiApp" target="_blank">Shomi</a>
+- <a href="https://cadix.vercel.app" target="_blank">CADiX</a>, help architect and civil engineer build and collaborate<br>
+- <a href="https://bit.ly/shomiApp" target="_blank">Shomi</a>, empowers a 1000 scolars to succeed in national exams<br>
+- <a href="https://t.me/GereNkap" target="_blank">GereNkap</a>, a telegram bot to help users manage their finances using AI<br>
 
 <!---
 monkeyK1n9/monkeyK1n9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
