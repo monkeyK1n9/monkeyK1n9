@@ -8,7 +8,6 @@ My Projects:
 - <a href="https://bit.ly/shomiApp" target="_blank">Shomi</a>, empowers a 1000 scolars to succeed in national exams<br>
 - <a href="https://t.me/GereNkap" target="_blank">GereNkap</a>, a telegram bot to help users manage their finances using AI<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=monkeyK1n9&theme=algolia&show_icons=true)](https://github.com/monkeyK1n9)<br>
 [![King's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=monkeyK1n9&hide=c&theme=algolia&show_icons=true)](https://github.com/monkeyK1n9)
 <!---
 monkeyK1n9/monkeyK1n9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
