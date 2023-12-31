@@ -11,9 +11,9 @@
 - <a href="https://github.com/monkeyK1n9/Termchat" target="_blank">Termchat</a>, a chat app right from your terminal [in development] <br>
 - <a href="https://t.me/GereNkap" target="_blank">GereNkap</a>, a telegram bot to help users manage their finances using AI<br>
 
-| My stats |
-|----------|
-| [![King's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=monkeyK1n9&hide=c&theme=algolia&show_icons=true)](https://github.com/monkeyK1n9) |
+| Languages | Repo stats |
+|-----------|------------|
+| [![King's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=monkeyK1n9&hide=c&theme=algolia&show_icons=true)](https://github.com/monkeyK1n9) | [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=monkeyK1n9&count_private=true&theme=algolia&show_icons=true)]() |
 <!---
 monkeyK1n9/monkeyK1n9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
