@@ -3,7 +3,21 @@
 - 👀 I’m interested in Software development
 - 💞️ I’m looking to collaborate on mobile apps, libraries, web and desktop apps
 - 🏀 In my spare time, I play basket ball, and video games
-- 📫 How to reach me: mkeyk1n9@gmail.com
+- 📫 How to reach me:
+<a href="mkeyk1n9@gmail.com">
+  <img
+    width="100"
+    height="30"
+    alt="Email"
+    src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png"
+  />
+</a>
+<a href="https://twitter.com/monkey_K1n9">
+  <img
+    alt="Twitter"
+    src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
+  />
+</a>
 
 ## My Projects:
 - <a href="https://cadix.vercel.app" target="_blank">CADiX</a>, help architect and civil engineer build and collaborate  [in development]<br>
@@ -15,6 +29,8 @@
 | Languages | Repo stats |
 |-----------|------------|
 | [![King's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=monkeyK1n9&hide=c&theme=algolia&show_icons=true)](https://github.com/monkeyK1n9) | [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=monkeyK1n9&count_private=true&theme=algolia&show_icons=true)]() |
+
+
 <!---
 monkeyK1n9/monkeyK1n9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
