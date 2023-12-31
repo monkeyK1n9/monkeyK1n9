@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on mobile apps, libraries, web and desktop apps
 - 🏀 In my spare time, I play basket ball, and video games
 - 📫 How to reach me:
-<a href="https://mail.google.com/mail/u/?authuser=mkeyk1n9@gmail.com">
+<a href="mailto:mkeyk1n9@gmail.com">
   <img
     width="100"
     height="30"
