@@ -23,6 +23,7 @@
 - <a href="https://cadix.vercel.app" target="_blank">CADiX</a>, help architect and civil engineer build and collaborate  [in development]<br>
 - <a href="https://bit.ly/shomiApp" target="_blank">Shomi</a>, empowers a 1000 scolars to succeed in national exams<br>
 - <a href="https://github.com/monkeyK1n9/Termchat" target="_blank">Termchat</a>, a chat app right from your terminal [in development] <br>
+- <a href="https://github.com/monkeyK1n9/sekugram" target="_blank">Sekugram</a>, a telegram web client that permits a user to organise his files and share media link to stream with friends [in development]
 - <a href="https://t.me/GereNkap" target="_blank">GereNkap</a>, a telegram bot to help users manage their finances using AI<br>
 
 ## Some numbers:
