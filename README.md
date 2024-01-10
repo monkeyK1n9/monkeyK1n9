@@ -3,7 +3,8 @@
 - 👀 I’m interested in Software development
 - 💞️ I’m looking to collaborate on mobile apps, libraries, web and desktop apps
 - 🏀 In my spare time, I play basketball, and video games
-- 📫 How to reach me:
+
+## Contact me:
 <a href="mailto:mkeyk1n9@gmail.com">
   <img
     width="100"
