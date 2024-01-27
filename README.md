@@ -31,7 +31,6 @@
 | Statistics |
 |:-------:|
 | [![GitHub Streak](https://streak-stats.demolab.com?user=monkeyK1n9&theme=algolia&mode=weekly&card_width=550)](https://git.io/streak-stats) |
-| [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=monkeyK1n9&count_private=true&theme=algolia&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&card_width=550)]() |
 | [![King's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=monkeyK1n9&hide=c&theme=algolia&show_icons=true&card_width=550)](https://github.com/monkeyK1n9) |
 
 
