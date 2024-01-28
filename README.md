@@ -28,6 +28,8 @@
 - <a href="https://t.me/GereNkap" target="_blank">GereNkap</a>, a telegram bot to help users manage their finances using AI. The server might be down for economic reasons.<br>
 
 ## Some numbers:
+## Profile Views
+![Visitor Count](https://profile-counter.glitch.me/{monkeyK1n9}/count.svg)
 | Statistics |
 |:-------:|
 | [![GitHub Streak](https://streak-stats.demolab.com?user=monkeyK1n9&theme=algolia&mode=weekly&card_width=550)](https://git.io/streak-stats) |
