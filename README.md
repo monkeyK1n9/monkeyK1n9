@@ -27,9 +27,10 @@
 - <a href="https://github.com/monkeyK1n9/sekugram" target="_blank">Sekugram</a>, a telegram web client that permits a user to organise his files and share media link to stream with friends [in development]
 - <a href="https://t.me/GereNkap" target="_blank">GereNkap</a>, a telegram bot to help users manage their finances using AI. The server might be down for economic reasons.<br>
 
-## Some numbers:
 ## Profile Views
 ![Visitor Count](https://profile-counter.glitch.me/{monkeyK1n9}/count.svg)
+
+## Some statistics:
 | Statistics |
 |:-------:|
 | [![GitHub Streak](https://streak-stats.demolab.com?user=monkeyK1n9&theme=algolia&mode=weekly&card_width=550)](https://git.io/streak-stats) |
