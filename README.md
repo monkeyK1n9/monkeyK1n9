@@ -12,7 +12,7 @@
     alt="Email"
     src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png"
   />
-</a><br>
+</a><br><br>
 <a href="https://twitter.com/monkey_K1n9">
   <img
     alt="Twitter"
