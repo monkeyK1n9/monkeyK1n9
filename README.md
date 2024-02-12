@@ -2,7 +2,7 @@
 - 👋 Hi, I’m <a href="https://github.com/monkeyK1n9">monkeyK1n9</a>
 - 👀 I’m interested in Software development
 - 💞️ I’m looking to collaborate on mobile apps, libraries, web and desktop apps
-- 🏀 In my spare time, I play basketball, and video games.
+- 🏀 In my spare time, I read books, play basketball, and video games.
 
 ## Contact me:
 <a href="mailto:mkeyk1n9@gmail.com">
