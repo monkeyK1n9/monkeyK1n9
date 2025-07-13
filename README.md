@@ -21,7 +21,6 @@
 </a>
 
 ## Profile Views:
-![Visitor Count](https://profile-counter.glitch.me/{monkeyK1n9}/count.svg) <br/>
 [![King profile views](https://u8views.com/api/v1/github/profiles/91855362/views/day-week-month-total-count.svg)](https://u8views.com/github/monkeyK1n9) <br/>
 
 ## Some statistics:
